@@ -2,9 +2,22 @@
 
 ### 🌎
 
-## I'm Curtis Lane, a full stack web developer. 
+## I'm Curtis Lane, a full stack web developer. Scroll to the bottom for my bio.
 
-### </>
+### 💻
+
+## Here's some of the projects I've built:
+
+### [Avatar: The Last Airbender Memory Game](https://github.com/CurtisLane/Clicky-Game) is a simple memory game built with React!
+![clickyGameScreenshot](https://github.com/CurtisLane/Clicky-Game/blob/master/public/screenShot.jpg?raw=true)
+
+### [My Portfolio](https://github.com/CurtisLane/Portfolio) 
+![portfolioScreenshot](https://github.com/CurtisLane/Portfolio/blob/master/assets/images/PortfolioScreenshot.jpg?raw=true)
+
+### [Fit-News](https://github.com/CurtisLane/Fit-News) is a web scraper built with Node.js, Express.js, MongoDB, Mongoose, HTML5, CSS3, and Bootstrap.
+![fitnewsScreenshot](https://github.com/CurtisLane/Fit-News/blob/master/app/public/images/screenShot.jpg?raw=true)
+
+### [droplet](https://github.com/CurtisLane/droplet) is a social media website that my team at UCF and I created in TWO WEEKS!! Check the readme for credits.
 
 ## Bio
 
@@ -16,7 +29,7 @@
 
 ### 😤
 
-### My story begins at the end of high school in 2007. I had a choice to pursue my passion for either computer science, or anatomy and physiology. The choice was easy, I wanted to help people right now with my knowledge of the human body, so for the next decade my focus was on building the most outstanding massage therapy and personal training practice possible. 🏻
+### My story begins at the end of high school in 2007. I had a choice to pursue my passion for either computer science, or anatomy and physiology. The choice was easy, I wanted to help people right now with my knowledge of the human body, so for the next decade my focus was on building the most outstanding massage therapy and personal training practice possible. 
 
 ### 💪
 
