@@ -9,16 +9,16 @@
 # Here are some of the projects I've built:
 
 ## [Avatar: The Last Airbender Memory Game](https://github.com/CurtisLane/Clicky-Game) is a simple memory game built with React!
-![clickyGameScreenshot](https://github.com/CurtisLane/Clicky-Game/blob/master/public/screenShot.jpg?raw=true)
+[![clickyGameScreenshot](https://github.com/CurtisLane/Clicky-Game/blob/master/public/screenShot.jpg?raw=true)](https://curtislane.github.io/Clicky-Game/)
 
 ## [My Portfolio](https://github.com/CurtisLane/Portfolio) features my most recent work.
-![portfolioScreenshot](https://github.com/CurtisLane/Portfolio/blob/master/assets/images/PortfolioScreenshot.jpg?raw=true)
+[![portfolioScreenshot](https://github.com/CurtisLane/Portfolio/blob/master/assets/images/PortfolioScreenshot.jpg?raw=true)](https://curtislane.github.io/Portfolio/)
 
 ## [Fit-News](https://github.com/CurtisLane/Fit-News) is a web scraper built with Node.js, Express.js, MongoDB, Mongoose, HTML5, CSS3, and Bootstrap.
-![fitnewsScreenshot](https://github.com/CurtisLane/Fit-News/blob/master/app/public/images/screenShot.jpg?raw=true)
+[![fitnewsScreenshot](https://github.com/CurtisLane/Fit-News/blob/master/app/public/images/screenShot.jpg?raw=true)](https://fit-news.herokuapp.com/)
 
 ## [droplet](https://github.com/CurtisLane/droplet) is a social media website that my team at UCF and I created in TWO WEEKS!! Check the readme for credits.
-![dropletScreenshot](https://github.com/CurtisLane/CurtisLane/blob/master/images/droplet.jpg?raw=true)
+[![dropletScreenshot](https://github.com/CurtisLane/CurtisLane/blob/master/images/droplet.jpg?raw=true)](https://project-droplet.herokuapp.com/)
 
 # Bio
 
