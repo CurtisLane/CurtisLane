@@ -4,11 +4,11 @@
 
 ## I'm Curtis Lane, a full stack web developer. 
 
+### 💻
+
 ### My specialties include: the MERN stack, MongoDB, Express, React, Node, mySQL, HTML5, CSS3, JavaScript, ES6, Bootstrap, and more! 
 
 ### Scroll to the bottom for my bio.
-
-### 💻
 
 # Here are some of the projects I've built:
 
