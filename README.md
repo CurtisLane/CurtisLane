@@ -18,6 +18,7 @@
 ![fitnewsScreenshot](https://github.com/CurtisLane/Fit-News/blob/master/app/public/images/screenShot.jpg?raw=true)
 
 ### [droplet](https://github.com/CurtisLane/droplet) is a social media website that my team at UCF and I created in TWO WEEKS!! Check the readme for credits.
+![dropletScreenshot](https://github.com/CurtisLane/CurtisLane/blob/master/images/droplet.jpg?raw=true)
 
 ## Bio
 
