@@ -2,7 +2,9 @@
 
 ### 🌎
 
-## I'm Curtis Lane, a full stack web developer. Scroll to the bottom for my bio.
+## I'm Curtis Lane, a full stack web developer. 
+
+## My specialties include: the MERN stack, MongoDB, Express, React, Node, mySQL, HTML5, CSS3, JavaScript, ES6, Bootstrap, and more! Scroll to the bottom for my bio.
 
 ### 💻
 
@@ -21,8 +23,6 @@
 [![dropletScreenshot](https://github.com/CurtisLane/CurtisLane/blob/master/images/droplet.jpg?raw=true)](https://project-droplet.herokuapp.com/)
 
 # Bio
-
-## My specialties include: the MERN stack, MongoDB, Express, React, Node, mySQL, HTML5, CSS3, JavaScript, ES6, Bootstrap, and more!
 
 ### 🤹🏻
 
