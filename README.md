@@ -8,7 +8,11 @@
 
 ### My specialties include: the MERN stack, MongoDB, Express, React, Node, mySQL, HTML5, CSS3, JavaScript, ES6, Bootstrap, and more! 
 
+### 🤹🏻
+
 ### Scroll to the bottom for my bio.
+
+### 📝
 
 # Here are some of the projects I've built:
 
@@ -25,8 +29,6 @@
 [![dropletScreenshot](https://github.com/CurtisLane/CurtisLane/blob/master/images/droplet.jpg?raw=true)](https://project-droplet.herokuapp.com/)
 
 # Bio
-
-### 🤹🏻
 
 ### The reason I became a developer is because I'm fascinated by technology, I love language learning, and I'm passionate about turning a vision of what could be, into reality. I have developed quite a skill set in the arts of execution, discipline, and problem solving. 
 
