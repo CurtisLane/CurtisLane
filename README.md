@@ -11,7 +11,7 @@
 ## [Avatar: The Last Airbender Memory Game](https://github.com/CurtisLane/Clicky-Game) is a simple memory game built with React!
 ![clickyGameScreenshot](https://github.com/CurtisLane/Clicky-Game/blob/master/public/screenShot.jpg?raw=true)
 
-## [My Portfolio](https://github.com/CurtisLane/Portfolio) 
+## [My Portfolio](https://github.com/CurtisLane/Portfolio) features my most recent work.
 ![portfolioScreenshot](https://github.com/CurtisLane/Portfolio/blob/master/assets/images/PortfolioScreenshot.jpg?raw=true)
 
 ## [Fit-News](https://github.com/CurtisLane/Fit-News) is a web scraper built with Node.js, Express.js, MongoDB, Mongoose, HTML5, CSS3, and Bootstrap.
