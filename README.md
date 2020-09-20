@@ -16,7 +16,7 @@
 
 # Here are some of the projects I've built:
 
-## [HomeBody Fitness](https://github.com/CurtisLane/Homebody) is a workout app that builds custom workouts for you based on your selected muscle targets.
+## [HomeBody Fitness](https://github.com/CurtisLane/Homebody) is a workout app that builds custom workouts for you based on your selected muscle targets. This is a full stack web application which uses MongoDb, Express, React, Node, OAuth, and much more! Created by Team Undefined, credits in the readme.
 [![homeBodyFitnessScreenShot](https://raw.githubusercontent.com/CurtisLane/Homebody/master/client/public/frontEndUi.PNG)](https://homebody-fitness.herokuapp.com/home)
 
 ## [Avatar: The Last Airbender Memory Game](https://github.com/CurtisLane/Clicky-Game) is a simple memory game built with React!
