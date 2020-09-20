@@ -14,18 +14,18 @@
 
 ### 📝
 
-# Here are some of the projects I've built:
+# Here are some of the projects I've contributed to:
 
 ## [HomeBody Fitness](https://github.com/CurtisLane/Homebody) is a workout app that builds custom workouts for you based on your selected muscle targets. This is a full stack web application which uses MongoDb, Express, React, Node, OAuth, and much more! Created by Team Undefined, credits in the readme.
 [![homeBodyFitnessScreenShot](https://raw.githubusercontent.com/CurtisLane/Homebody/master/client/public/frontEndUi.PNG)](https://homebody-fitness.herokuapp.com/home)
 
-## [Avatar: The Last Airbender Memory Game](https://github.com/CurtisLane/Clicky-Game) is a simple memory game built with React!
+## [Avatar: The Last Airbender Memory Game](https://github.com/CurtisLane/Clicky-Game) is a simple memory game built with React! This is a solo project.
 [![clickyGameScreenshot](https://github.com/CurtisLane/Clicky-Game/blob/master/public/screenShot.jpg?raw=true)](https://curtislane.github.io/Clicky-Game/)
 
 ## [My Portfolio](https://github.com/CurtisLane/Portfolio) features my most recent work.
 [![portfolioScreenshot](https://github.com/CurtisLane/Portfolio/blob/master/assets/images/PortfolioScreenshot.jpg?raw=true)](https://curtislane.github.io/Portfolio/)
 
-## [Fit-News](https://github.com/CurtisLane/Fit-News) is a web scraper built with Node.js, Express.js, MongoDB, Mongoose, HTML5, CSS3, and Bootstrap.
+## [Fit-News](https://github.com/CurtisLane/Fit-News) is a web scraper built with Node.js, Express.js, MongoDB, Mongoose, HTML5, CSS3, and Bootstrap. This is a solo project.
 [![fitnewsScreenshot](https://github.com/CurtisLane/Fit-News/blob/master/app/public/images/screenShot.jpg?raw=true)](https://fit-news.herokuapp.com/)
 
 ## [droplet](https://github.com/CurtisLane/droplet) is a social media website that my team at UCF and I created in TWO WEEKS!! Check the readme for credits.
