@@ -6,7 +6,7 @@
 
 ### 💻
 
-### My specialties include: the MERN stack, MongoDB, Express, React, Node, mySQL, HTML5, CSS3, JavaScript, ES6, Bootstrap, and more! 
+### My specialties include: the MERN stack: MongoDB, Express, React, Node as well as mySQL, Python, HTML5, CSS3, JavaScript(ES6), and more! 
 
 ### 🤹🏻
 
