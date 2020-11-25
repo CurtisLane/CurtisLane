@@ -31,6 +31,9 @@
 ## [Avatar Trivia Game](https://github.com/CurtisLane/TriviaGame) - Fun timed trivia game based on the show Avatar: The Last Airbender. This is a solo project.
 [![triviaGameScreenShot](https://github.com/CurtisLane/TriviaGame/blob/master/assets/images/triviaGame.jpg)](https://curtislane.github.io/TriviaGame/)
 
+## [Dinner and a Movie](https://github.com/CurtisLane/Dinner-and-a-Movie) - Search for a trending movies and recipes based on your chosen ingredients! See readme for credits.
+[![DinnerandaMovieScreenShot](https://github.com/CurtisLane/Dinner-and-a-Movie/blob/master/assets/Images/Dinner-and-a-movie-image.jpg)](https://curtislane.github.io/Dinner-and-a-Movie/)
+
 # Bio
 
 ### The reason I became a developer is because I'm fascinated by technology, I love language learning, and I'm passionate about turning a vision of what could be, into reality. I have developed quite a skill set in the arts of execution, discipline, and problem solving. 
